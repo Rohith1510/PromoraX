@@ -1,4 +1,4 @@
-# Promptora - ZK-Powered AI Prompt Marketplace
+# PromoraX - ZK-Powered AI Prompt Marketplace
 
 A decentralized platform where users submit, discover, and vote on AI prompts with zero-knowledge voting, NFT-gated premium access, and on-chain tipping on Base network.
 

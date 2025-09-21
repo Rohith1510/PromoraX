@@ -7,7 +7,7 @@ import { ResizableNavigation } from './components/ResizableNavigation'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Promptora - ZK-Powered AI Prompt Marketplace',
+  title: 'PromoraX - ZK-Powered AI Prompt Marketplace',
   description: 'Discover, create, and earn from AI prompts with zero-knowledge voting and NFT-gated premium access',
   keywords: 'AI prompts, marketplace, Web3, ZK, NFT, Base network',
 }
